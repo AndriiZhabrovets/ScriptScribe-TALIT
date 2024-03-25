@@ -27,6 +27,6 @@ Go with a servo motor if your application meets any of these requirements:
 - Requirements for high speeds
 - Dynamic motion profiles
 
-After reading this points it becomes clear that the best choice for me is to use *stepper motors* in my project
+After reading this points it becomes clear that the best choice for me is to use **stepper motors** in my project
 ### CNC shield
 ![](https://i.imgur.com/QzwmnPU.png)
