@@ -2,15 +2,15 @@
 
 ### Arduino Board 
 #### Rev3
-![200](https://i.imgur.com/cXYPimo.png)
+![](https://i.imgur.com/cXYPimo.png)
 #### Rev4
-![200](https://i.imgur.com/BRROWqP.png)
+![](https://i.imgur.com/BRROWqP.png)
 ### Motors
 #### Stepper vs. Servo
 Motors can be considered one of the core elements of my project.
 There are different types of motors, however for my purposes specific precision was required. The main options were: Stepper and Servo motors.
 
-After some further research I found such comparison of both motor types
+After some further research I found such comparison of both motor types.
 
 A stepper motor if your application meets any of the following criteria:
 
