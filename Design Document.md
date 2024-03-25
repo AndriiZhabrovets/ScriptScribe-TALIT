@@ -2,9 +2,9 @@
 
 ### Arduino Board 
 #### Rev3
-![500](https://i.imgur.com/cXYPimo.png)
+![200](https://i.imgur.com/cXYPimo.png)
 #### Rev4
-![500](https://i.imgur.com/BRROWqP.png)
+![200](https://i.imgur.com/BRROWqP.png)
 ### Motors
 #### Stepper vs. Servo
  A stepper motor if your application meets any of the following criteria:
