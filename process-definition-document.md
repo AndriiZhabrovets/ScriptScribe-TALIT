@@ -4,9 +4,12 @@ The final product is supposed to be a fully functional plotter ("drawing machine
 
 The expected recults are:
 
-- Easy Level <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.printablee.com%2Fpostpic%2F2015%2F07%2Fgeometric-shapes-printable-templates_60586.jpg&f=1&nofb=1&ipt=96e7e0cf2449742969abea3bace3deece9d97b1a548a12ac625bc95b68af5f66&ipo=images" width="500">
-- Intermediate Level <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fs54w837jbox11.jpg&f=1&nofb=1&ipt=8f1fc3e86394e7e80d0f5f38e1b9432faae4781a66e2bc70073db91dd4acb9f5&ipo=images>
-- Advanced Level <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Floopsandtails.com%2Fwp-content%2Fuploads%2F2017%2F04%2Fcursive-handwriting-sample-paragraph-2.jpg&f=1&nofb=1&ipt=e204acf610a1ebe3e3a472e1fe569be6ecfed4088362e14ca48b0d0f5edaad32&ipo=images" width="500">
+- Easy Level 
+    - <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.printablee.com%2Fpostpic%2F2015%2F07%2Fgeometric-shapes-printable-templates_60586.jpg&f=1&nofb=1&ipt=96e7e0cf2449742969abea3bace3deece9d97b1a548a12ac625bc95b68af5f66&ipo=images" width="500">
+- Intermediate Level 
+    - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fs54w837jbox11.jpg&f=1&nofb=1&ipt=8f1fc3e86394e7e80d0f5f38e1b9432faae4781a66e2bc70073db91dd4acb9f5&ipo=images" width="500">
+- Advanced Level 
+    - <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Floopsandtails.com%2Fwp-content%2Fuploads%2F2017%2F04%2Fcursive-handwriting-sample-paragraph-2.jpg&f=1&nofb=1&ipt=e204acf610a1ebe3e3a472e1fe569be6ecfed4088362e14ca48b0d0f5edaad32&ipo=images" width="500">
 
 
 ## Software Idea 
