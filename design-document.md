@@ -1,10 +1,9 @@
 ## Electronics
 
 ### Arduino Board 
+Due to a specific circuit board required for my project (CNC shield), the Arduino UNO was chosen. Both Rev3 and Rev4 are compatible with the CNC shield and my initial idea was to use Rev3 due to its potentially lower price. However, I managed to find Rev4 with a lower price than Rev3. So the Rev4 model is listed in the price table.
 
-Due to a specific cicuit board required for my project (CNC shield) Arduino UNO was chosen. Both Rev3 and Rev4 are compatible with CNC shield and my initial idea was to use Rev3 due to its potentially lower price. However, I managed to find Rev4 with a price lower than Rev3. Thus Rev4 model is stated in the price table. 
-
-*Note: In case a more cheap Rev3 will be found, I am always open to buying it instead.* 
+*Note: If a cheaper Rev3 is found, I am always open to buying it instead.*
 #### Rev3
 <p align="center">
 <img src="https://i.imgur.com/cXYPimo.png" width="500">
@@ -17,30 +16,28 @@ Due to a specific cicuit board required for my project (CNC shield) Arduino UNO 
 
 ### Motors
 #### Stepper vs. Servo
-Motors can be considered one of the core elements of my project.
-There are different types of motors, however for my purposes specific precision was required. The main options were: Stepper and Servo motors.
+Motors can be considered one of the core elements of my project. There are different types of motors available, but for my purposes a specific precision was required. The main options were Stepper and Servo motors.
 
-After some further research I found such comparison of both motor types.
+After some further research I found a comparison of the two types of motor.
 
-A stepper motor if your application meets any of the following criteria:
+A stepper motor if your application meets any of the following criteria
 
-- Low speed and high accuracy
-- Short, rapid repetitive movements
+- Low speed and high precision
+- Short, fast, repetitive movements
 - High torque and low speed
 - You prefer simple control
 
-Steppers have the advantages of lower system costs, minimum system tuning, low maintenance, and rugged construction.
+Steppers have the advantages of lower system cost, minimal system tuning, low maintenance and robust construction.
 
-Go with a servo motor if your application meets any of these requirements:
+Choose a servo motor if your application meets any of these requirements:
 
-- Control of the applied force
-- Requirements for high speeds
+- Control of applied force
+- High speed requirements
 - Dynamic motion profiles
 
-After reading this points it becomes clear that the best choice for me is to use **stepper motors** in my project
-
+After reading these points, it is clear that the best choice for me is to use *stepper motors* in my project.
 ### CNC shield
-**Computer Numeric Control (CNC)** shield is a circuit board that connects to Arduino and in my case is required to control stepper motors.
+**The Computer Numeric Control (CNC)** shield is a circuit board that connects to the Arduino, and in my case is needed to control stepper motors.
 
 <p align="center">
 <img src="https://i.imgur.com/QzwmnPU.png" width="500">
@@ -48,9 +45,9 @@ After reading this points it becomes clear that the best choice for me is to use
 
 ### Moving axes
 
-This is the main issue which I assume will require a long time to find a good soulution to it. Despite of that, after several sketches and assumptions I came to a conclusion that the mechanism will have to move the axes with rubber bands. The main reason for choosing this solution is the stability and percisions of a such solution. 
+This is the main problem and I suspect it will take a long time to find a good solution. Nevertheless, after several sketches and assumptions, I have come to the conclusion that the mechanism will have to move the axes with rubber bands. The main reason for choosing this solution is the stability and precision of such a solution.
 
-The smallest axis which is responsible for lifting up and lowering down the "pen" can be considered rather special due to the fact that it does not need a stepper motor which may save some costs. 
+The smallest axis, which is responsible for raising and lowering the "pen", can be considered quite special because it does not need a stepper motor, which can save some costs.
 
 ### Time Plan
 
