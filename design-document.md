@@ -31,4 +31,4 @@ After reading this points it becomes clear that the best choice for me is to use
 ### CNC shield
 **Computer Numeric Control (CNC)** shield is a circuit board that connects to Arduino and in my case is required to control stepper motors.
 
-<img href="https://i.imgur.com/QzwmnPU.png" width="200">
+<img src="https://i.imgur.com/QzwmnPU.png" width="200">
