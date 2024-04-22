@@ -30,4 +30,5 @@ Go with a servo motor if your application meets any of these requirements:
 After reading this points it becomes clear that the best choice for me is to use **stepper motors** in my project
 ### CNC shield
 **Computer Numeric Control (CNC)** shield is a circuit board that connects to Arduino and in my case is required to control stepper motors.
-![](https://i.imgur.com/QzwmnPU.png)
+
+<img href="https://i.imgur.com/QzwmnPU.png" width="200">
