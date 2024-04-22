@@ -5,10 +5,12 @@
 <p align="center">
 <img src="https://i.imgur.com/cXYPimo.png" width="500">
 </p>
+
 #### Rev4
 <p align="center">
 <img src="https://i.imgur.com/BRROWqP.png" width="500">
 </p>
+
 ### Motors
 #### Stepper vs. Servo
 Motors can be considered one of the core elements of my project.
