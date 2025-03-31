@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="test-3.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69432472"
+     inkscape:cx="380.22555"
+     inkscape:cy="631.54888"
+     inkscape:window-width="1728"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="140.68609"
+       y="191.44912"
+       width="27.55707"
+       height="49.312651"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'.Sana PUA';-inkscape-font-specification:'.Sana PUA';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:68.8977;fill:#000000;stroke-width:0.264583"
+       x="46.049313"
+       y="51.42173"
+       id="text1"
+       transform="matrix(1.8431395,0,0,3.1733202,-27.284642,-105.54235)"><tspan
+         x="46.049313"
+         y="51.42173"
+         id="tspan4"><tspan
+           style="font-weight:500;font-family:'Snell Roundhand';-inkscape-font-specification:'Snell Roundhand Medium'"
+           id="tspan3">Hello World !</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="fill:#000000;text-orientation:auto;text-align:start;writing-mode:lr-tb;direction:ltr;font-size:37.33333333px;-inkscape-font-specification:'.Sana PUA';font-family:'.Sana PUA';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect2)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke-width:3.10609946;stroke-dasharray:none;fill-opacity:0;stroke:#000000;stroke-opacity:1"
+       id="path2"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="85.574974"
+       sodipodi:cy="98.622284"
+       sodipodi:r1="37.246925"
+       sodipodi:r2="18.623463"
+       sodipodi:arg1="1.0887176"
+       sodipodi:arg2="1.7170361"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 102.84347,131.62429 -19.98229,-14.57733 -23.336723,8.19682 7.689,-23.50893 -15.007082,-19.661586 24.734352,0.04802 14.061836,-20.348348 7.597669,23.538604 23.697778,7.085616 -20.03874,14.499638 z"
+       inkscape:transform-center-x="-0.85996753"
+       inkscape:transform-center-y="-1.004248"
+       transform="matrix(0.5127344,0,0,0.52204577,90.291155,61.75915)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.365;stroke-dasharray:none"
+       id="path3"
+       sodipodi:cx="101.69223"
+       sodipodi:cy="196.47707"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="26.119993"
+       sodipodi:argument="-17.455984"
+       sodipodi:t0="0"
+       d="m 101.69223,196.47707 c 0.23088,1.2891 -1.62377,0.94722 -2.142572,0.38374 -1.405911,-1.527 -0.190289,-3.84318 1.375092,-4.66889 2.80009,-1.47701 6.08723,0.41011 7.1952,3.13392 1.62598,3.9973 -1.00824,8.36899 -4.89275,9.72152 -5.177443,1.8027 -10.665082,-1.6042 -12.247832,-6.65158 -1.991731,-6.35162 2.198784,-12.96823 8.410408,-14.77415 7.523104,-2.18721 15.275404,2.79254 17.300464,10.16924 2.38646,8.69319 -3.38576,17.58509 -11.92807,19.82678 -9.862436,2.58811 -19.896463,-3.97863 -22.353093,-13.6869 -2.791378,-11.03116 4.571244,-22.20901 15.445729,-24.87941 12.199524,-2.99578 24.522414,5.16369 27.405724,17.20456 3.20102,13.36765 -5.756,26.83646 -18.96339,29.93204"
+       transform="translate(1.9187217,27.629588)" />
+    <rect
+       style="fill:#000000;stroke-width:1.165;fill-opacity:0;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4"
+       width="53.724197"
+       height="56.410408"
+       x="40.676891"
+       y="111.28584" />
+  </g>
+</svg>
